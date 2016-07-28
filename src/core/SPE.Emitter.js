@@ -953,8 +953,8 @@ SPE.Emitter.prototype.enable = function() {
 };
 
 /**
- * Disables th emitter, but does not instantly remove it's
- * particles fromt the scene. When called, the emitter will be
+ * Disables the emitter, but does not instantly remove it's
+ * particles from the scene. When called, the emitter will be
  * 'switched off' and just stop emitting. Any particle's alive will
  * be allowed to finish their lifecycle.
  *
